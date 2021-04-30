@@ -1,0 +1,33 @@
+@import url("https://cdn.syncfusion.com/ej2/material.css");
+
+.events_main {
+    background-color: #f7f4f4;
+    height: 100%;
+    width: 100%;
+    align-items: center;
+    display: flex;
+    padding: 50px;
+    color: black;
+    border-width:2px;
+    border-style:solid;
+    border-right: none;
+    border-top: none;
+    border-left: none;
+    border-bottom-color:lightgray;
+}
+.events_body {
+  font-size: 40px;
+}
+.events_buttons {
+    display: flex;
+}
+.events_button {
+    margin-right: 10%;
+}
+.events_create {
+    position: absolute;
+    right: 0;
+}
+.create_button {
+    margin-right: 100px;
+}

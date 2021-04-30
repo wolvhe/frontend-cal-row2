@@ -1,0 +1,13 @@
+.calendar_main {
+    display: flex;
+    padding: 50px;
+
+}
+.calendar_title {
+    margin-left: 100px;
+    width: 50%;
+}
+/* .calendar_dates {
+    position: absolute;
+    right: 0;
+} */
